@@ -23,7 +23,7 @@ Also, it can be required by Node.js to spawn it easily
 ```js
 const rqlited = require('rqlite')
 
-console.log(rqlited) // => '.../node_modules/rqlite-runtime/bin/rqlited'
+console.log(rqlited) // => '.../node_modules/rqlite/bin/rqlited'
 ```
 
 ## New builds
