@@ -18,6 +18,14 @@ rqlited -node-id=1 data1
 rqlite
 ```
 
+Also, it can be required by Node.js to spawn it easily
+
+```js
+const rqlited = require('rqlite')
+
+console.log(rqlited) // => '.../node_modules/rqlite-runtime/bin/rqlited'
+```
+
 ## New builds
 
 <details>
