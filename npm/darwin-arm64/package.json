@@ -1,0 +1,28 @@
+{
+  "name": "rqlite-runtime-darwin-arm64",
+  "version": "1.0.0",
+  "description": "The macOS ARM 64-bit binary for RQLite",
+  "bin": {
+    "rqlite": "bin/rqlite",
+    "rqlited": "bin/rqlited"
+  },
+  "files": [
+    "bin"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/like/rqlite-runtime.git"
+  },
+  "author": "1337",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/like/rqlite-runtime/issues"
+  },
+  "homepage": "https://github.com/like/rqlite-runtime#readme",
+  "os": [
+    "darwin"
+  ],
+  "cpu": [
+    "arm64"
+  ]
+}
