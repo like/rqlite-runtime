@@ -1,0 +1,2 @@
+#!/usr/bin/env node
+require('spawn-runtime')('rqlite-runtime', __filename)

@@ -1,0 +1,29 @@
+{
+  "name": "rqlite",
+  "version": "0.0.0",
+  "description": "Prebuilt RQLite binaries for Linux, macOS, and Windows",
+  "bin": {
+    "rqlite": "bin/rqlite",
+    "rqlited": "bin/rqlited"
+  },
+  "files": [
+    "bin",
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/like/rqlite-runtime.git"
+  },
+  "author": "1337",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/like/rqlite-runtime/issues"
+  },
+  "homepage": "https://github.com/like/rqlite-runtime#readme",
+  "optionalDependencies": {
+    "rqlite-runtime-linux-x64": "1.0.0"
+  },
+  "dependencies": {
+    "spawn-runtime": "^1.0.0"
+  }
+}
