@@ -1,6 +1,6 @@
 {
   "name": "rqlite",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Prebuilt RQLite binaries for Linux, macOS, and Windows",
   "bin": {
     "rqlite": "bin/rqlite",
