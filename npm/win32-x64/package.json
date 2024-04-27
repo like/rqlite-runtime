@@ -1,0 +1,28 @@
+{
+  "name": "rqlite-runtime-win32-x64",
+  "version": "1.0.0",
+  "description": "The Windows 64-bit binary for RQLite",
+  "bin": {
+    "rqlite": "bin/rqlite.exe",
+    "rqlited": "bin/rqlited.exe"
+  },
+  "files": [
+    "bin"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/like/rqlite-runtime.git"
+  },
+  "author": "1337",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/like/rqlite-runtime/issues"
+  },
+  "homepage": "https://github.com/like/rqlite-runtime#readme",
+  "os": [
+    "win32"
+  ],
+  "cpu": [
+    "x64"
+  ]
+}

@@ -22,7 +22,8 @@
   },
   "homepage": "https://github.com/like/rqlite-runtime#readme",
   "optionalDependencies": {
-    "rqlite-runtime-linux-x64": "1.0.0"
+    "rqlite-runtime-linux-x64": "1.0.0",
+    "rqlite-runtime-win32-x64": "1.0.0"
   },
   "dependencies": {
     "spawn-runtime": "^1.0.0"
