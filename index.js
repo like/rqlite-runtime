@@ -1,3 +1,3 @@
-const path = require('path')
+const runtime = require('spawn-runtime')
 
-module.exports = path.join(__dirname, 'bin', 'rqlited')
+module.exports = runtime('rqlite-runtime', 'rqlited', { spawn: false })
