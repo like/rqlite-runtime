@@ -1,0 +1,3 @@
+[submodule "vendor/rqlite"]
+	path = vendor/rqlite
+	url = https://github.com/rqlite/rqlite.git
