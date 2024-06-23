@@ -1,6 +1,6 @@
 {
   "name": "rqlite-runtime-linux-arm64",
-  "version": "1.0.0",
+  "version": "8.26.2",
   "description": "The Linux ARM 64-bit binary for RQLite",
   "bin": {
     "rqlite": "bin/rqlite",

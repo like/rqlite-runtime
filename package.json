@@ -22,10 +22,10 @@
   },
   "homepage": "https://github.com/like/rqlite-runtime#readme",
   "optionalDependencies": {
-    "rqlite-runtime-darwin-arm64": "1.0.0",
-    "rqlite-runtime-linux-arm64": "1.0.0",
-    "rqlite-runtime-linux-x64": "1.0.0",
-    "rqlite-runtime-win32-x64": "1.0.0"
+    "rqlite-runtime-darwin-arm64": "8.26.2",
+    "rqlite-runtime-linux-arm64": "8.26.2",
+    "rqlite-runtime-linux-x64": "8.26.2",
+    "rqlite-runtime-win32-x64": "8.26.2"
   },
   "dependencies": {
     "spawn-runtime": "^1.1.0"
