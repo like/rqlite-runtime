@@ -1,6 +1,6 @@
 {
   "name": "rqlite-runtime-darwin-arm64",
-  "version": "8.26.3-0",
+  "version": "8.26.7",
   "description": "The macOS ARM 64-bit binary for RQLite",
   "bin": {
     "rqlite": "bin/rqlite",
