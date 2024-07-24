@@ -1,6 +1,6 @@
 {
   "name": "rqlite",
-  "version": "1.5.2",
+  "version": "1.5.3",
   "description": "Prebuilt RQLite binaries for Linux, macOS, and Windows",
   "main": "index.js",
   "bin": {
